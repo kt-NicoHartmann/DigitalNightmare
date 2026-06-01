@@ -8,7 +8,7 @@ A web-based satirical experiment that pushes digital madness to its absolute lim
 
 ## What is Digital Nightmare?
 
-Digital Nightmare is a satirical webpage that distills everything exhausting about the modern internet into a single, concentrated experience — without even pretending to inform you. It is a direct response to a digital landscape where engagement metrics have overtaken reading comfort.
+Digital Nightmare is a satirical webpage that distills everything exhausting about the modern internet into a single, concentrated experience, without even pretending to inform you. It is a direct response to a digital landscape where engagement metrics have overtaken reading comfort.
 
 The louder it gets, the more you click. That's the point.
 
