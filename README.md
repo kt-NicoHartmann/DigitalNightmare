@@ -1,6 +1,6 @@
 # Digital Nightmare
 
-A web-based satirical experiment that pushes digital madness to its absolute limit. This project is a commentary on the modern web's obsession with clicks over readability — loud, annoying, and deliberately designed to get worse with every interaction.
+A web-based satirical experiment that pushes digital madness to its absolute limit. This project is a commentary on the modern web's obsession with clicks over readability: loud, annoying, and deliberately designed to get worse with every interaction.
 
 [Live Demo](https://nicohartmann.dev/digital_nightmare_en.html)
 
