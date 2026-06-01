@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/kt-NicoHartmann/Digital-Nightmare.git
+git clone https://github.com/kt-NicoHartmann/DigitalNightmare.git
 ```
 
 2. **Open the Project**
