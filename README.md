@@ -1,6 +1,6 @@
 # Digital Nightmare
 
-A web-based satirical experiment that pushes digital madness to its absolute limit. This project is a commentary on the modern web's obsession with clicks over readability — loud, annoying, and deliberately designed to get worse with every interaction.
+A web-based satirical experiment that pushes digital madness to its absolute limit. This project is a commentary on the modern web's obsession with clicks over readability: loud, annoying, and deliberately designed to get worse with every interaction.
 
 [Live Demo](https://nicohartmann.dev/digital_nightmare_en.html)
 
@@ -8,7 +8,7 @@ A web-based satirical experiment that pushes digital madness to its absolute lim
 
 ## What is Digital Nightmare?
 
-Digital Nightmare is a satirical webpage that distills everything exhausting about the modern internet into a single, concentrated experience — without even pretending to inform you. It is a direct response to a digital landscape where engagement metrics have overtaken reading comfort.
+Digital Nightmare is a satirical webpage that distills everything exhausting about the modern internet into a single, concentrated experience, without even pretending to inform you. It is a direct response to a digital landscape where engagement metrics have overtaken reading comfort.
 
 The louder it gets, the more you click. That's the point.
 
@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/kt-NicoHartmann/Digital-Nightmare.git
+git clone https://github.com/kt-NicoHartmann/DigitalNightmare.git
 ```
 
 2. **Open the Project**
